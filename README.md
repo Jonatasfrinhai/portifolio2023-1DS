@@ -9,7 +9,16 @@ Link site (GitPage):
 https://underkyu.github.io/Criatil/index.html
 
 
+# certificados
 
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/1fd4694b-6b13-4330-8480-b87725dd4323)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/195e2d3d-e8b7-4dbe-aa74-a0e512cdf608)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/9cd66059-261a-47e5-9e38-5ec2c23a8af5)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/4b9ce546-2757-4d31-9a00-227acee080af)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/7fe1bac9-c4a7-46fb-bf1c-2f00f31ad9fb)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/fb62ada7-c490-4d70-b515-4e10a7bfcede)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/b86153c0-9366-4050-84f3-6e0a22d9fece)
+![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/192a9220-b08b-4faf-8e87-cd57350c01ad)
 ![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/5ec3db7c-2a4a-47ff-a260-56a119feff07)
 ![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/df1f830a-b5fd-4a4a-a83e-03daa2871825)
 ![image](https://github.com/Jonatasfrinhai/portifolio2023-1DS/assets/129223093/e2b69536-23ad-453a-96c6-0270b1dd20aa)
